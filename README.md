@@ -1,6 +1,6 @@
 # Semple-Store-App
 
-Udacity
+Udacity:
 
 Started the CONNECT INTENSIVE - ANDROID BASICS BY GOOGLE Nano-Degree on NOV 10th 2017.
 Finished the program in Feb 2018
